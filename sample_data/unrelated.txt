@@ -1,0 +1,1 @@
+Quantum computing relies on the principles of quantum mechanics. It uses qubits instead of classical bits.
