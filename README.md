@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Semantic Plagiarism Detection Agent
 
 Detects similarity by **meaning**, not exact wording — built to catch
@@ -96,3 +97,7 @@ FAISS indexing over `DocumentChunk` embeddings, a persistent
 `vector_id <-> chunk_id` mapping, corpus-wide top-k retrieval, adjacent
 match grouping, and the coverage-percentage calculation — all designed
 in `docs/ARCHITECTURE.md`, ready to build next.
+=======
+# Plagiarism_Detect
+
+>>>>>>> 343a7301fc7b0aeb9c2bf525fb2ec373d4ae9565
