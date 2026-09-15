@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+data/
+*.egg-info/
+
+# Frontend (Phase 4)
+node_modules/
+dist/
+.vite/
+
+# Models cache (if pointed locally instead of the HF default cache)
+.model_cache/
